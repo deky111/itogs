@@ -17,7 +17,7 @@ class karta(sprite.Sprite):
         okno.blit(self.image, (self.rect.x, self.rect.y))
 
 from random import*
-colors = ['red', 'green', 'yellow']
+colors = ['red', 'green', 'yellow', 'blue']
 numes = ['0','1','2','3','4','5','6','7','8','-=','=-','+2','+4',]
 naokno = []
 
